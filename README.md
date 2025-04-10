@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Ongoing Research
 
 ### 🦾 Interpretable Prototype for Time-Series + LLM
 > Aligning textual and temporal modalities through text-prototype embeddings and CKA loss  
