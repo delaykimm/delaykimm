@@ -1,9 +1,9 @@
 <h1> Hi there, I'm Jiyun Kim (Grace)👋 </h1>
 
 ## 🎓Education
-  - 💻 **Computer Science & Engineering** @ Korea University (Mar. 2022 - Present)<br>
-  - 🧠 **Brain and Cognitive Sciences** @ Korea University (Mar. 2024 - Present)<br>
-  - ✈️ **Exchange Student** @ Univeristy of Texas At Austin (Jan. 2025 - May. 2025)
+  - **Computer Science & Engineering** @ Korea University (Mar. 2022 - Present)<br>
+  - **Brain and Cognitive Sciences** @ Korea University (Mar. 2024 - Present)<br>
+  - **Exchange Student** @ Univeristy of Texas At Austin (Jan. 2025 - May. 2025)
   
 
 ## 🔭 I'm currently working on 
@@ -48,7 +48,7 @@
 
 - 📨 Email: [kimjiyun138@gmail.com](mailto:kimjiyun138@gmail.com)
 - 🧾 Lab: [DAIS (Data & AI Systems Lab), Korea University](https://dais.korea.ac.kr)
-- 🌐 CV
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jj.yun)
 
 ---
 
