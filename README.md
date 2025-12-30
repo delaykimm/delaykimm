@@ -3,7 +3,7 @@
 ## 🎓Education
   - **Computer Science & Engineering** @ Korea University (Mar 2022 - Present)<br>
   - **Brain and Cognitive Sciences** @ Korea University (Mar 2024 - Present)<br>
-  - **Exchange Student** @ University of Texas At Austin (Jan 2025 - May 2025)  
+  - **Exchange Student** @ The University of Texas at Austin (Jan 2025 - May 2025)  
 
 ## 🔭 Research Experience
 
@@ -13,8 +13,8 @@
 
 ## 🔭 Research Projects
 
-**Numerical-Token-Grounded Time-Series & Textual Embedding Alignment for Forecasting**
-*July 2025 – Dec 2025*
+**Numerical-Token-Grounded Time-Series & Textual Embedding Alignment for Forecasting**  
+*July 2025 – Dec 2025*  
 *(Individually led research conducted at Data & Adaptive Intelligence Systems Lab under the supervision of Prof. Susik Yoon, Korea University)*
 
 - Identified that existing time-series–text methods rely on naive channel-wise attention without explicit alignment criteria.
@@ -46,9 +46,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📊 My GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=delaykimm&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%">
-</p>
+
+![GitHub Stats](https://github-readme-stats-snowy-three-12.vercel.app/api?username=delaykimm&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800)
 
 ## 📫 Contact
 
