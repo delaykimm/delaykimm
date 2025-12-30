@@ -1,23 +1,35 @@
 <h1> Hi there, I'm Jiyun Kim (Grace)👋 </h1>
 
 ## 🎓Education
-  - **Computer Science & Engineering** @ Korea University (Mar. 2022 - Present)<br>
-  - **Brain and Cognitive Sciences** @ Korea University (Mar. 2024 - Present)<br>
-  - **Exchange Student** @ Univeristy of Texas At Austin (Jan. 2025 - May. 2025)
-  
+  - **Computer Science & Engineering** @ Korea University (Mar 2022 - Present)<br>
+  - **Brain and Cognitive Sciences** @ Korea University (Mar 2024 - Present)<br>
+  - **Exchange Student** @ University of Texas At Austin (Jan 2025 - May 2025)  
 
-## 🔭 I'm currently working on 
+## 🔭 Research Experience
 
-- Research for **time-series representation with LLMs** at [Data & Adaptive Intelligence Systems Lab, Korea University](https://dais.korea.ac.kr)
+**Undergraduate Researcher**, Data & Adaptive Intelligence Systems Lab (Advisor: Prof. Susik Yoon), Korea University  
+*July 2024 – Dec 2025*
+- Conducted research on time-series representation learning with large language models (LLMs).
 
+## 🔭 Research Projects
+
+**Numerical-Token-Grounded Time-Series & Textual Embedding Alignment for Forecasting**
+*July 2025 – Dec 2025*
+*(Individually led research conducted at Data & Adaptive Intelligence Systems Lab under the supervision of Prof. Susik Yoon, Korea University)*
+
+- Identified that existing time-series–text methods rely on naive channel-wise attention without explicit alignment criteria.
+- Proposed a numerical token–based alignment framework by converting time-series values into natural-language descriptions.
+- Aligned timestamp-level time-series embeddings with number-aware textual token embeddings, enabling fine-grained and interpretable cross-modal representations.
+- Validated the framework through basic experiments on ETTh1 and ILI datasets.
+- Manuscript in preparation.
 
 ## 🔭 I'm interested in 
 
-- Time-Series Analysis with LLM
-- Large Language models
-- Cross-modal alignment
-- AI-driven Analysis of Social Media Data
-- Interpretability of Deep Neural Networks
+- Interpretable representation learning
+- Multimodal representation learning
+- Brain-inspired AI
+- Scene understanding & structured representation (e.g., scene graph generation)
+- Autonomous driving perception
 
 ## 🛠️ Tech Stack
 
@@ -25,31 +37,23 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface)
+![HDF5](https://img.shields.io/badge/-HDF5-2C3E50?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
-
----
-
-## 🧠 Ongoing Research
-
-### 🦾 Interpretable Prototype for Time-Series + LLM
-> Aligning textual and temporal modalities through text-prototype embeddings and CKA loss  
-> 🔗 Based on works like OneFitsAll, Time-LLM, CALF, and TEST
-
----
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📊 My GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=delaykimm&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=delaykimm&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%">
 </p>
-
----
 
 ## 📫 Contact
 
 - 📨 Email: [kimjiyun138@gmail.com](mailto:kimjiyun138@gmail.com)
-- 🧾 Lab: [DAIS (Data & AI Systems Lab), Korea University](https://dais.korea.ac.kr)
+- 🌐 Google Scholar / CV: (coming soon)  
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jj.yun)
 
----
-
-> ✨ *“Keep it simple.”*
+> ✨ *“Keep it simple, but meaningful”*
