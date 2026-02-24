@@ -3,18 +3,22 @@
 ## 🎓Education
   - **Computer Science & Engineering** @ Korea University (Mar 2022 - Present)<br>
   - **Brain and Cognitive Sciences** @ Korea University (Mar 2024 - Present)<br>
-  - **Exchange Student** @ The University of Texas at Austin (Jan 2025 - May 2025)  
+  - **Exchange Student (CS)** @ The University of Texas at Austin (Jan 2025 - May 2025)  
 
 ## 🔭 Research Experience
 
+**Undergraduate Intern**, Data Science & Artificial Intelligence Laboratory (Advisor: Prof. Chanyoung Park), Korea Advanced Institute of Science and Technology (KAIST)
+*Dec 2025 – Feb 2026*
+-	Reviewed prior publications from the lab and conducted independent research on diffusion-based VLA models.
+
 **Undergraduate Researcher**, Data & Adaptive Intelligence Systems Lab (Advisor: Prof. Susik Yoon), Korea University  
 *July 2024 – Dec 2025*
-- Conducted research on time-series representation learning with large language models (LLMs).
+- Conducted independent research on time-series representation learning with large language models (LLMs).
 
 ## 🔭 Research Projects
 
 **Numerical-Token-Grounded Time-Series & Textual Embedding Alignment for Forecasting**  
-*July 2025 – Dec 2025*  
+*June 2025 – Dec 2025*  
 *(Individually led research conducted at Data & Adaptive Intelligence Systems Lab under the supervision of Prof. Susik Yoon, Korea University)*
 
 - Identified that existing time-series–text methods rely on naive channel-wise attention without explicit alignment criteria.
@@ -23,13 +27,13 @@
 - Validated the framework through basic experiments on ETTh1 and ILI datasets.
 - Manuscript in preparation.
 
-## 🔭 I'm interested in 
+## 🔭 Research Interests
 
-- Interpretable representation learning
-- Multimodal representation learning
-- Brain-inspired AI
-- Scene understanding & structured representation (e.g., scene graph generation)
-- Autonomous driving perception
+- Visual Perception & Scene Understanding
+- Interpretable & Structured Representation Learning
+- Multimodal Representation Learning
+- Visual Language Action Models (VLAs)
+- Autonomous Driving Perception
 
 ## 🛠️ Tech Stack
 
@@ -45,14 +49,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 📊 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-snowy-three-12.vercel.app/api?username=delaykimm&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800)
-
 ## 📫 Contact
 
 - 📨 Email: [kimjiyun138@gmail.com](mailto:kimjiyun138@gmail.com)
 - 🌐 Google Scholar / CV: (coming soon)  
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jj.yun)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jiyun-kim-35a396298)
 
 > ✨ *“Keep it simple, but meaningful”*
